@@ -1,4 +1,4 @@
-import midi
+#import midi :) there no such library. There is py-midi which lets you communicate with MIDI devices (https://pypi.org/project/py-midi/)
 import random
 
 # Set the tempo
